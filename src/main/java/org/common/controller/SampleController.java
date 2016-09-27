@@ -6,7 +6,7 @@
  * Copyright (C) 2011 - 2016 HD Insurance Ltd. All Rights Reserved.
  * ****************************************************************************
  */
-package org.common;
+package org.common.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
