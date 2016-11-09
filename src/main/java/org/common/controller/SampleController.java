@@ -20,7 +20,7 @@ public class SampleController
   @ResponseBody
   String home()
   {
-    return "Hello World!";
+    return "Hello Wurld!";
   }
 
 }
